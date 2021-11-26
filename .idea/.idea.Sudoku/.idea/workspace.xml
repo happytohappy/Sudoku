@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f20112b-0508-4510-a337-7617c3ec3fb8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/UI/UIWindowMain.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/UI/UIWindowMain.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/UI/UIWindowMultiGame.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/UI/UIWindowMultiGame.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Manager/Managers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Manager/Managers.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/UIWindowMain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/UIWindowMain.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIWindowMain.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Manager/Managers.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2024fhK0dVpW0YY2HasJcoVIfxE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f20112b-0508-4510-a337-7617c3ec3fb8" name="Default Changelist" comment="" />
+      <created>1635229454549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635229454549</updated>
+      <workItem from="1635229459552" duration="1357000" />
+      <workItem from="1635233653724" duration="422000" />
+      <workItem from="1635565696494" duration="59000" />
+      <workItem from="1635577622774" duration="1423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="125" width="1592" height="807" key="VCS.FileHistoryDialog" timestamp="1635582129121">
+      <screen x="0" y="25" width="1792" height="1007" />
+    </state>
+    <state x="100" y="125" width="1592" height="807" key="VCS.FileHistoryDialog/0.25.1792.1007@0.25.1792.1007" timestamp="1635582129121" />
+    <state x="561" y="247" width="670" height="676" key="search.everywhere.popup" timestamp="1635577630057">
+      <screen x="0" y="25" width="1792" height="1007" />
+    </state>
+    <state x="561" y="247" width="670" height="676" key="search.everywhere.popup/0.25.1792.1007@0.25.1792.1007" timestamp="1635577630057" />
+  </component>
+</project>

@@ -132,7 +132,7 @@ public class UIWindowMain : UIWindowBase
                     ToastParam toastParam = new ToastParam();
                     toastParam.Message = "중복된 닉네임 입니다.";
                     Managers.UI.OpenWindow(WindowID.UIPopupToastMessage, toastParam);
-                break;
+                    break;
                 }
         }
     }
